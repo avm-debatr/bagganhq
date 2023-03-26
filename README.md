@@ -1,4 +1,4 @@
-## BagGAN -Synthetic Baggage Scan Generation with StyleGAN2-ADA
+## BagGAN - Synthetic Baggage Scan Generation with StyleGAN2-ADA
 
 A Python library for StyleGAN-based generation of synthetic baggage X-ray images for prohibited item detection.
 
